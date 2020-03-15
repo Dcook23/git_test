@@ -1,1 +1,2 @@
-This is Derald'c first git project!
+This is Derald's first git project!
+Sadie is poopoo
